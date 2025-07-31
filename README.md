@@ -36,10 +36,10 @@ Resets an Active Directory user’s password using the `Set-ADAccountPassword` c
   - Domain access
 
 ### ▶️ Running a Script
-```powershell
+Open Powershell and run:  
 .\scripts\check_disk_space.ps1
 
-If you encounter an issue, you can trobuleshoot with the following:
+If you encounter an issue, you can trobuleshoot with the following:  
 powershell -ExecutionPolicy Bypass -File .\scripts\your_script.ps1
 
 ## 📌 License
@@ -50,4 +50,4 @@ MIT License — Feel free to use, modify, and contribute.
 
 ## 🙋‍♂️ About the Author
 
-Built by [sudojalen] as part of a practical toolkit to support IT operations and demonstrate hands-on scripting ability.
+Built by **sudojalen** as part of a practical toolkit to support IT operations and demonstrate hands-on scripting ability.
